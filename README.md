@@ -4,8 +4,8 @@ This repository contains my projects from the "Data Science Specialist" training
 
 Ссылка на курс: https://praktikum.yandex.ru/data-analyst/
 
-![Diplom_1](https://github.com/{DarAnod-B}/{YPracticum}/image/Diplom_page-1.jpg)
-![Diplom_2](https://github.com/{DarAnod-B}/{YPracticum}/image/Diplom_page-2.jpg)
+![Diplom_1](https://github.com/DarAnod-B/YPracticum/blob/main/image/Diplom_page-1.jpg)
+![Diplom_2](https://github.com/DarAnod-B/YPracticum/blob/main/image/Diplom_page-2.jpg)
 
 
 
